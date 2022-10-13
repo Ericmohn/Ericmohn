@@ -1,3 +1,4 @@
+- <img src="https://github.com/Ericmohn/Ericmohn/blob/main/Github.png" alt="banner that says I'm Eric Mohn / Eu sou Eric Mohn">
 - 👋 Hi, I’m @Ericmohn
 - 👀 I’m interested in developing and programing, specially related to games.
 - 🌱 I’m currently learning JavaScript.
