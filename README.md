@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm / Olá. me chamo Eric Mohn</h1>
-<h3 align="center">Currently I'm doing an internship on IESB / Atualmente estou estagiando no IESB</h3>
+<h1 align="center">Hi 👋, I'm  Eric Mohn / Olá. me chamo Eric Mohn</h1>
+<h3 align="center">Currently I'm doing an internship on IESB and finishing my Bachelors in Software Engineering / Atualmente estou estagiando no IESB e terminando meu curso superior em Engenharia de Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericmohn&label=Profile%20views&color=0e75b6&style=flat" alt="ericmohn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericmohn" alt="ericmohn" /></a> </p>
 
-- 🌱 I’m currently learning **.NET, C# & PHP**
+- 🌱 I’m currently learning .NET, C# & PHP / Atualmente estou aprendendo .NET, C# PHP
 
-- 👯 I’m looking to collaborate on: / Estou aberto para colaborar em: **any project that can test me. / qualquer projeto que me ajude a testar minha capacidade.**
+- 👯 I’m looking to collaborate on: any project that can test me. / Estou aberto para colaborar em: qualquer projeto que me ajude a testar minha capacidade.
 
-- 💬 Ask me about / Me pergunte sobre **React, JavaScript.**
+- 💬 Ask me about / Me pergunte sobre: **React, JavaScript.**
 
-- 📫 How to reach me / Como entrar em contato comigo **eric_mohn@hotmail.com**
+- 📫 How to reach me / Como entrar em contato comigo: **eric_mohn@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
