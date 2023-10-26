@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Eric Mohn / Olá. me chamo Eric Mohn</h1>
+<h1 align="center">Hi 👋, I'm  Eric Mohn / Olá, me chamo Eric Mohn</h1>
 <h3 align="center">Currently I'm doing an internship on IESB and finishing my Bachelors in Software Engineering / Atualmente estou estagiando no IESB e terminando meu curso superior em Engenharia de Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericmohn&label=Profile%20views&color=0e75b6&style=flat" alt="ericmohn" /> </p>
