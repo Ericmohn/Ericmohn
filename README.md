@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericmohn" alt="ericmohn" /></a> </p>
 
-- 🌱 I’m currently learning .NET, C# & PHP / Atualmente estou aprendendo .NET, C# PHP
-
+- 🌱 I’m currently deepening my understanding of  C# & JS / Atualmente estou aprofundando meu conhecimento em  C# & JS.
+  
 - 👯 I’m looking to collaborate on: any project that can test me. / Estou aberto para colaborar em: qualquer projeto que me ajude a testar minha capacidade.
 
 - 💬 Ask me about / Me pergunte sobre: **React, JavaScript.**
